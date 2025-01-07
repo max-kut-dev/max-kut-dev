@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning JavaScript as my main programing language.
+- 📫 How to reach me: max.kut.20@gmail.com.
+- 😄 Pronouns: he/him.
+
 <!--
 **max-kut-dev/max-kut-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
